@@ -1,0 +1,11 @@
+package com.dio;
+
+public class Printando {
+
+	public static void main(String[] args) {
+		System.out.println("Pedro Lucas");
+		System.out.println("Correia Rocha");
+
+	}
+
+}
